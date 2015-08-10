@@ -16,7 +16,7 @@ import com.astuetz.PagerSlidingTabStrip;
 public class MainActivity extends FragmentActivity {
 
 	private ArrayList<String> fragments = new ArrayList<String>();
-	private String[] TITLE = { "圈子项目", "待审核项目" };
+	private String[] TITLE = { "圈子项目", "待审核项目" }; 
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
